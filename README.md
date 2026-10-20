@@ -1,4 +1,4 @@
-## Hola soy un Panchito👋
+## Hola soy Gabriel estudiante de 1º de SMR Actualmente estoy aprendiendo sobre informática, montaje y mantenimiento de equipos, redes y sistemas operativos. Me gustan los videojuegos y la tecnología, y me interesa aprender a crear mis propios proyectos.👋
 
 <!--
 **DottyXU/DottyXU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
